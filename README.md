@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🔭 I’m currently working on SyncMind – a personal productivity OS built in Python<br>- 🤝 I’m looking to collaborate on lightweight desktop tools, productivity apps, or creative side projects<br>- 🌱 I’m currently learning advanced Flask, async Python, and modular app design<br>- 👀 I’m looking for people who love turning raw ideas into smart systems<br>- 💬 Ask me about Python, Tkinter, Flask, Pandas, or system architecture<br>- ⚡ Fun fact: I build faster when I'm sleep-deprived and hyped on ideas 🤖⚡
+- 🤝 I’m looking to collaborate on lightweight desktop tools, productivity apps, or creative side projects<br>- 🌱 I’m currently learning advanced Flask, async Python, and modular app design<br>- 👀 I’m looking for people who love turning raw ideas into smart systems<br>- 💬 Ask me about Python, Tkinter, Flask, Pandas, or system architecture<br>- ⚡ Fun fact: I build faster when I'm sleep-deprived and hyped on ideas 🤖⚡
 
 
 ## 🌐 Socials:
