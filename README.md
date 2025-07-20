@@ -25,7 +25,12 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=PypCoder&limit=5&theme=vision-friendly-dark&combine_all_yearly_contributions=true)
 
----
 [![](https://visitcount.itsvg.in/api?id=PypCoder&icon=0&color=0)](https://visitcount.itsvg.in)
+
+---
+
+> _“As long as I’m alive, I have infinite chances.”_
+
+[![PypCoder Badge](https://img.shields.io/badge/%F0%9F%94%90%20Infinite%20Chances%20-%20PypCoder-black?style=for-the-badge&logo=github)](https://github.com/PypCoder)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
