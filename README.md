@@ -17,7 +17,7 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=PypCoder&theme=vision-friendly-dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=PypCoder&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
+<!-- ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=PypCoder&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 
@@ -26,7 +26,7 @@
 
 [![](https://visitcount.itsvg.in/api?id=PypCoder&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### ✍️ Random Dev Quote 
+### ✍️ Random Dev Quote -->
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
@@ -34,5 +34,3 @@
 > _“As long as I’m alive, I have infinite chances.”_
 
 [![PypCoder Badge](https://img.shields.io/badge/%F0%9F%94%90%20Infinite%20Chances%20-%20PypCoder-black?style=for-the-badge&logo=github)](https://github.com/PypCoder)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
