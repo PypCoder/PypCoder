@@ -19,11 +19,11 @@
 
 ## 💫 About Me
 
-- 🤝 I'm looking to collaborate on **ML/AI projects and full-stack web applications**
-- 🌱 I'm currently learning **Rust** and deepening my PyTorch knowledge (training custom architectures from scratch)
-- 👀 I'm looking for **remote employment, freelance clients, and open source contributors**
-- 💬 Ask me about **custom neural networks, PyTorch, FastAPI, Next.js, or building full-stack AI systems**
-- ⚡ Fun fact: I built a neural network from scratch using only NumPy — no frameworks — and hit 97.93% accuracy on MNIST
+- I'm looking to collaborate on **ML/AI projects and full-stack web applications**
+- I'm currently learning **Rust** and deepening my PyTorch knowledge (training custom architectures from scratch)
+- I'm looking for **remote employment, freelance clients, and open source contributors**
+- Ask me about **custom neural networks, PyTorch, FastAPI, Next.js, or building full-stack AI systems**
+- Fun fact: I built a neural network from scratch using only NumPy — no frameworks — and hit 97.93% accuracy on MNIST
 
 ---
 
@@ -102,9 +102,6 @@
 | **Neural Net (NumPy)** | Pure NumPy | 97.93% MNIST accuracy — built from scratch, no frameworks | [Neural Network from Scratch](https://github.com/PypCoder/Neural-Network-from-Scratch.git) |
 
 ---
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asad-sagheer786/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/thecode_envoy) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:asadsagheer243@gmail.com) 
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
