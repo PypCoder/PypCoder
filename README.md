@@ -11,13 +11,13 @@
 
 **Muhammad Asad Ullah** · ML/AI Engineer & Full-Stack Developer
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=F59E0B&center=true&vCenter=true&width=620&lines=ML%2FAI+Engineer+%7C+Full-Stack+Developer;Custom+neural+architectures+from+scratch;PyTorch+%7C+FastAPI+%7C+Next.js+%7C+TypeScript;Turning+raw+research+into+deployable+intelligence)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=F59E0B&center=true&vCenter=true&width=620&lines=ML%2FAI+Engineer+%7C+Full-Stack+Developer;Custom+neural+architectures+from+scratch;PyTorch+%7C+FastAPI+%7C+Next.js+%7C;Turning+raw+research+into+deployable+intelligence)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## 💫 About Me
+## About Me
 
 - I'm looking to collaborate on **ML/AI projects and full-stack web applications**
 - I'm currently learning **Rust** and deepening my PyTorch knowledge (training custom architectures from scratch)
@@ -27,7 +27,7 @@
 
 ---
 
-## 🤖 ML / AI Stack
+## ML / AI Stack
  
 **Frameworks & Training**
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
@@ -66,7 +66,7 @@
  
 ---
  
-## 🛠 Full-Stack Stack
+## Full-Stack Stack
  
 **Backend**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -92,7 +92,7 @@
 
 ---
 
-## 🚀 Key Projects
+## Key Projects
 
 | Project | Stack | What It Does | Link |
 |---|---|---|---|
