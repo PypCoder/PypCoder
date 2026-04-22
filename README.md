@@ -95,7 +95,7 @@
 ## 🚀 Key Projects
 
 | Project | Stack | What It Does | Link |
-|---|---|---|
+|---|---|---|---|
 | **MutantScope** | FastAPI · Next.js · AlphaFold · Gemini · NGL | Full-stack protein mutation, powered by SERAPH, analysis with 3D visualization and AI explanations | [MutantScope](https://github.com/PypCoder/MutantScope.git) |
 | **SERAPH** | PyTorch · CNN + BiLSTM | Custom hybrid model for protein secondary structure prediction (Q3 classification) | [SERAPH](https://github.com/PypCoder/MutantScope/blob/main/notebooks/SERAPH.ipynb) |
 | **AI Business Analyzer** | Gemini · Serper.dev · SQLite · Streamlit | Autonomous AI agent for competitive business analysis | [AI Business Analyzer](https://github.com/PypCoder/AI-Business-Analyzer.git) |
