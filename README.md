@@ -9,7 +9,7 @@
 ╚═╝        ╚═╝   ╚═╝      ╚═════╝ ╚═════╝ ╚═════╝ ╚══════╝╚═╝  ╚═╝
 ```
 
-**Muhammad Asad Ullah** · ML/AI Engineer & Full-Stack Developer · Lahore, Pakistan 🇵🇰
+**Muhammad Asad Ullah** · ML/AI Engineer & Full-Stack Developer
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=F59E0B&center=true&vCenter=true&width=620&lines=ML%2FAI+Engineer+%7C+Full-Stack+Developer;Custom+neural+architectures+from+scratch;PyTorch+%7C+FastAPI+%7C+Next.js+%7C+TypeScript;Turning+raw+research+into+deployable+intelligence)](https://git.io/typing-svg)
 
